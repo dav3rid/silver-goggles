@@ -5,3 +5,6 @@ exports.getTopics = (req, res, next) => {
     res.status(200).send({ topics });
   });
 };
+
+// ticket 4 stuff
+// how about now?
